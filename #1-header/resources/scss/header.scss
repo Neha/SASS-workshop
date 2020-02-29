@@ -1,0 +1,49 @@
+$blackColor: #000;
+$whiteColor: #fff;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+header {
+  padding: 10px;
+  border: 10px solid $blackColor;
+  color: $blackColor;
+  box-shadow: 0px 7px 2px #ccc;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  h1 {
+    font-size: 32px;
+  }
+
+  nav {
+    ul {
+      display: flex;
+
+      li {
+        list-style: none;
+        padding: 10px;
+        border-radius: 20px;
+        border: 5px solid $blackColor;
+        margin-left: 20px;
+
+        a {
+          color: $blackColor;
+          text-decoration: none;
+          text-transform: uppercase;
+        }
+
+        &:hover {
+          background: $blackColor;
+
+          a {
+            color: $whiteColor;
+          }
+        }
+      }
+    }
+  }
+}

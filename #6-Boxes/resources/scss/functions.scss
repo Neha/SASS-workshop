@@ -1,0 +1,5 @@
+// Create a function to calculate the width as per the width and padding
+
+@function calculateWidth($padding, $width) {
+    @return $width - $padding * 2;
+}

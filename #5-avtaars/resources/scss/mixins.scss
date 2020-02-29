@@ -1,0 +1,20 @@
+@mixin avtaars($type){
+    border-radius: 50px;
+    border:5px solid orange;
+    padding: 20px 40px;
+    @if $type == female{
+        background: url(../images/female.svg) no-repeat;
+    }
+    @else if $type == ami{
+        background: url(../images/ami.svg) no-repeat;
+    }
+    @else if $type == cook{
+        background: url(../images/cook.svg) no-repeat;
+    }
+    @else if $type == business{
+        background: url(../images/male.svg) no-repeat;
+    }
+    @else{
+        background: url(../images/3.svg) no-repeat;
+    }
+}

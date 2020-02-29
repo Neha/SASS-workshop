@@ -1,0 +1,13 @@
+// @for and operators
+
+@for $i from 1 through 10 {
+    .padding--#{$i}{
+        padding: $i * 4px;
+    }
+}
+
+@for $i from 1 through 10 {
+    .margin--#{$i}{
+        margin: $i * 4px;
+    }
+}

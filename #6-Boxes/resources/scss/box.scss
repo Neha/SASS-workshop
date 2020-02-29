@@ -1,0 +1,25 @@
+@import './functions.scss';
+
+.box{
+    border:4px solid #000;
+    background: #eee;
+    padding: 5px;
+    margin: 10px;
+    width: calculateWidth(5px, 200px);
+}
+
+.box-md{
+    border:4px solid #000;
+    background: #eee;
+    padding: 10px;
+    margin: 10px;
+    width: calculateWidth(10px, 500px);
+}
+
+.box-lg{
+    border:4px solid #000;
+    background: #eee;
+    padding: 10px;
+    margin: 10px;
+    width: calculateWidth(10px, 800px);
+}
