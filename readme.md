@@ -43,7 +43,7 @@ For this workshop we will be using [ParcelJS](https://parceljs.org/).
 - [7-1 architecture](https://gist.github.com/rveitch/84cea9650092119527bc)
 
 ## :clap: How to use this repo
-There are 6 folders of the working example of features mentioned above.
+There are 7 folders of the working example of features mentioned above.
 
 - [#0 - Inital Setup](https://github.com/Neha/SASS-workshop/tree/master/%230-inital-setup)
 - [#1 - Header](https://github.com/Neha/SASS-workshop/tree/master/%231-header)
@@ -52,6 +52,7 @@ There are 6 folders of the working example of features mentioned above.
 - [#4 - utility-classes](https://github.com/Neha/SASS-workshop/tree/master/%234-utility-classes)
 - [#5 - Avtars](https://github.com/Neha/SASS-workshop/tree/master/%235-avtaars)
 - [#6 - Boxes](https://github.com/Neha/SASS-workshop/tree/master/%236-Boxes)
+- [#7 - Media-queries](https://github.com/Neha/SASS-workshop/tree/master/%237-%20media-queries)
 
 ## Thank you!! Did you liked it? If yes, do show your love :star2:
 
