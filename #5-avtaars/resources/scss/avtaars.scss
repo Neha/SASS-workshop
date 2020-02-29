@@ -1,30 +1,30 @@
 @import '../scss/mixins.scss';
 
-body{
+body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-ul li{
+ul li {
     list-style-type: none;
     margin: 10px;
 }
 
-.avtaar-female{
+.avtaar-female {
     @include avtaars('female')
 }
 
-.avtaar-male{
+.avtaar-male {
     @include avtaars('ami')
 }
 
-.avtaar-cook{
+.avtaar-cook {
     @include avtaars('cook')
 }
 
-.avtaar-business{
+.avtaar-business {
     @include avtaars('business')
 }
 
-.avtaar-flower{
+.avtaar-flower {
     @include avtaars('flower')
 }

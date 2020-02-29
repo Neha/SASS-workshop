@@ -1,0 +1,24 @@
+// mixins to create the reusable media-queries
+
+$sm: 480px;
+$md: 600px;
+$lg: 1024px;
+
+@mixin mediaquery($type){
+    @if $type == $sm{
+        @media screen and (min-width: $sm) {
+            @content;
+          }
+    }
+    @else if $type == $md {
+        @media screen and (min-width: $sm + 1) and (max-width: $md) { 
+            @content;
+          }
+    }
+    @else if $type == $lg {
+        @media screen and (min-width: $md + 1){
+            @content;
+        }
+    }
+}
+

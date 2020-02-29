@@ -1,0 +1,14 @@
+@import './mixins.scss';
+
+.box{
+    border:4px solid #000;
+    background: #eee;
+    padding: 5px;
+    margin: 10px;
+    @include mediaquery($md){
+        background:red;
+    }
+    @include mediaquery($lg){
+        background:green;
+    }
+}
