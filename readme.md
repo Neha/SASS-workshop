@@ -1,5 +1,8 @@
 # :crystal_ball: Let's learn SASS :crystal_ball:
 
+## WELCOME
+Hello, welcome to this workshop. This repo is for the [code-lab](https://www.meetup.com/jslovers-bengaluru/events/268851360/) organized by the [Progate](https://progate.com/) in collabration with [JSLovers](https://jslovers.com) in Bangalore.
+
 ## Who I am?
 Hello, I am Neha Sharma, working as UI Manager. I am also the founder of Tech Community - JSLovers. JSLovers based in Delhi, Mumbai, Bangalore, and, Pune. We do monthly tech meetups.
 
