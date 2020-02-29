@@ -23,7 +23,7 @@ For this workshop we will be using [ParcelJS](https://parceljs.org/).
 
 ## :point_right: How to start?
 - install SASS
-- create file with extension .scss
+- create ile with extension .scss
 
 ## :clap: Features
 - nesting
