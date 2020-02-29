@@ -1,11 +1,11 @@
-# Let's learn SASS
+# Let's learn SASS :crystal_ball:
 
 ## Who I am?
 Hello, I am Neha Sharma, working as UI Manager. I am also the founder of Tech Community - JSLovers. JSLovers based in Delhi, Mumbai, Bangalore, and, Pune. We do monthly tech meetups.
 
-- Linkdin
-- Twitter
-- Email to connect
+- [Linkedin](https://www.linkedin.com/in/nehha/)
+- [Twitter](https://twitter.com/hellonehha)
+- Email to connect - neha@jslovers.com
 
 ## What is SASS?
 SASS is CSS-preprocessor - SASS empower the CSS. SASS provides the missing features to the CSS.
@@ -21,7 +21,7 @@ The only difference between SASS and SCSS is - in SASS cruly brackets are option
 One can install SCSS by using npm, ruby, dart, webpack, parcelJS, etc.
 For this workshop we will be using [ParcelJS](https://parceljs.org/).
 
-## How to start?
+## :How to start?
 - install SASS
 - create file with extension .scss
 
@@ -40,11 +40,14 @@ For this workshop we will be using [ParcelJS](https://parceljs.org/).
 - [7-1 architecture](https://gist.github.com/rveitch/84cea9650092119527bc)
 
 ## How to use this repo
-There are 5 folders of the working example of features mentioned above.
+There are 6 folders of the working example of features mentioned above.
 
-- #1 - Header
-- #2 - Product-item
-- #3 - Footer
-- #4 - utility-classes
-- #5 - Avtars
-- #6 - Boxes
+- [#0 - Inital Setup](https://github.com/Neha/SASS-workshop/tree/master/%230-inital-setup)
+- [#1 - Header](https://github.com/Neha/SASS-workshop/tree/master/%231-header)
+- [#2 - Product-item](https://github.com/Neha/SASS-workshop/tree/master/%232-product-item)
+- [#3 - Footer](https://github.com/Neha/SASS-workshop/tree/master/%233-footer)
+- [#4 - utility-classes](https://github.com/Neha/SASS-workshop/tree/master/%234-utility-classes)
+- [#5 - Avtars](https://github.com/Neha/SASS-workshop/tree/master/%235-avtaars)
+- [#6 - Boxes](https://github.com/Neha/SASS-workshop/tree/master/%236-Boxes)
+
+## Thank you!! Did you liked it? If yes, do show your love :star2:
